@@ -3,6 +3,6 @@ import { addStatement , updateStatement} from "../controllers/statement_controll
 
 export const router = Router()
 
-router.post('/statement',addStatement)
+router.post('/statements',addStatement)
 
-router.patch('/statement/:id/:caseStatus',updateStatement)
+router.patch('/statements/:id/:caseStatus',updateStatement)
