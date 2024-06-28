@@ -38,7 +38,7 @@ Create your controller folder
 -Get one statement
 -Update one statement caseStatus to closed
 -delete one statement
-
+-push to github but make sure you omit the nodemodules and env
 
 
  
